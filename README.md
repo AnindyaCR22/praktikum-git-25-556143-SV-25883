@@ -51,3 +51,8 @@ Berikut adalah riwayat commit project:
 1. Clone repository:
    ```bash
    git clone https://github.com/username/praktikum-git-NIM.git
+
+## 🔒 Branch Protection
+Berikut pengaturan branch protection pada branch main:
+
+![Branch Protection](branch-protection.png)
